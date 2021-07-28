@@ -14,7 +14,7 @@ There is more than one sequence with the same id for every id in the set.
 
 1. Perform data augmentation 
 2. Extract voice features from audio 
-3. Modeling using a 1-d CNN 
+3. Modeling using a 1-D CNN 
 
 ### Results 
 
