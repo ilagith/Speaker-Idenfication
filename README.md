@@ -21,3 +21,10 @@ There is more than one sequence with the same id for every id in the set.
 | Validation set | Test set |
 | ------------- | ------------- |
 | 94.85%  | 84.48%  |
+
+# Reference List  
+
+- Badine, F. (2020) Classify speakers using Fast Fourier Transform (FFT) and a 1D Convnet. Retrieved from: https://keras.io/examples/audio/speaker_recognition_using_cnn/
+- Padney, P. (2018) Music Genre Classification with Python. Retrieved from:
+https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
+- Sheng, L.M., & Edmund, M.W. (2017). Deep Learning Approach To Accent Classification.
