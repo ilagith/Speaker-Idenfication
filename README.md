@@ -18,5 +18,5 @@ There is more than one sequence with the same id for every id in the set.
 
 ### Results 
 
-94.85% on validation data; 
+94.85% on validation data; \n
 84.48 on test set 
