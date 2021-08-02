@@ -3,7 +3,7 @@
 ### Introduction 
 
 Everyone’s voice has specific characteristics such as pitch timbre or tone, which allow us to recognize anyone’s voice as unique.
-The goal of this project is to build a Deep Learning model capable of identifying whether two recordings belong to the same person.  
+The goal of this project is to build a Deep Learning model capable of identifying whether or not two recordings belong to the same person.  
 
 ### The Dataset 
 
