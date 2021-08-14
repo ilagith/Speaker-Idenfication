@@ -13,7 +13,7 @@ There is more than one sequence with the same id for every id in the set.
 ### Methodology
 
 1. Perform data augmentation 
-2. Extract voice features from audio 
+2. Extract voice features from audio using LibROSA
 3. Modeling using a 1-D CNN 
 
 ### Results 
@@ -25,6 +25,7 @@ There is more than one sequence with the same id for every id in the set.
 # Reference List  
 
 - Badine, F. (2020) Classify speakers using Fast Fourier Transform (FFT) and a 1D Convnet. Retrieved from: https://keras.io/examples/audio/speaker_recognition_using_cnn/
+- Brian McFee, Colin Raffel, Dawen Liang, Daniel PW Ellis, Matt McVicar, Eric Battenberg, and Oriol Nieto. librosa: Audio and music signal analysis in python. In Proceedings of the 14th python in science conference, volume 8, pages 18–25. Citeseer, 2015
 - Padney, P. (2018) Music Genre Classification with Python. Retrieved from:
 https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
 - Sheng, L.M., & Edmund, M.W. (2017). Deep Learning Approach To Accent Classification.
